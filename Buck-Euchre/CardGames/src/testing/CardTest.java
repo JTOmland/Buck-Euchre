@@ -54,7 +54,7 @@ public class CardTest {
            trick.addCard(thirdCard, playerThree);
            trick.addCard(fourthCard, playerFour);
            trick.printTrick();
-           System.out.println("TrickWinner " + trick.getTrickWinner().name);
+        //   System.out.println("TrickWinner " + trick.getTrickWinner().name);
            //System.out.println("TrickWinner " + trick.getTrickWinner()
         
     }
